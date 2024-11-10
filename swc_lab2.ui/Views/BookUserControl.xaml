@@ -1,0 +1,101 @@
+﻿<UserControl x:Class="swc_lab2.Views.BookUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:swc_lab2"
+             xmlns:ViewModels="clr-namespace:swc_lab2.ViewModel"
+             mc:Ignorable="d"
+                     d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <Style x:Key="MyButton" TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border" BorderThickness="0" BorderBrush="Black" Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.8" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+    <UserControl.DataContext>
+        <ViewModels:DataViewModel/>
+    </UserControl.DataContext>
+    <Grid Width="700" Height="200">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Grid.Row="0">
+            <DataGrid x:Name="dataGrid1" ItemsSource="{Binding Books}" AutoGenerateColumns="False"
+              BorderBrush="Black" Width="auto" HorizontalAlignment="Left" Height="200" VerticalAlignment="Center" SelectedItem="{Binding SelectedBook}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding Id, Mode=TwoWay}"/>
+                    <DataGridTextColumn Header="Name" Binding="{Binding Title, Mode=TwoWay}"/>
+                    <DataGridTextColumn Header="Rating" Binding="{Binding Author, Mode=TwoWay}"/>
+                    <DataGridTextColumn Header="PurchasePrice" Binding="{Binding PurchasePrice, Mode=TwoWay}"/>
+                    <DataGridTextColumn Header="SellingPrice" Binding="{Binding SellingPrice, Mode=TwoWay}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0 10 0 0">
+            <Grid HorizontalAlignment="Stretch">
+                <StackPanel Orientation="Horizontal">
+                    <Button Style="{StaticResource MyButton}" Content="Buy" Width="60" Margin="0 0 10 0" Height="30" Command="{Binding BuyCommand}">
+                        <Button.Background>
+                            <SolidColorBrush x:Name="myAnimatedBrush1" Color="Beige" />
+                        </Button.Background>
+                        <Button.Triggers>
+
+                            <!-- Animates the color of the brush used to paint 
+             the second button from red to blue . -->
+                            <EventTrigger RoutedEvent="Button.Click">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ColorAnimation 
+                  Storyboard.TargetName="myAnimatedBrush1"
+                  Storyboard.TargetProperty="Color"
+                  From="Coral" To="Beige" Duration="0:0:3" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </Button.Triggers>
+                    </Button>
+                    <Button Style="{StaticResource MyButton}" Content="Sell" Width="60" Height="30" Command="{Binding SellCommand}">
+                        <Button.Background>
+                            <SolidColorBrush x:Name="myAnimatedBrush2" Color="Beige" />
+                        </Button.Background>
+                        <Button.Triggers>
+
+                            <!-- Animates the color of the brush used to paint 
+the second button from red to blue . -->
+                            <EventTrigger RoutedEvent="Button.Click">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <ColorAnimation 
+                                Storyboard.TargetName="myAnimatedBrush2"
+                                Storyboard.TargetProperty="Color"
+                                From="Cyan" To="Beige" Duration="0:0:3" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </Button.Triggers>
+                    </Button>
+                    <TextBlock Text="{Binding MoneyAmount}" FontSize="20" HorizontalAlignment="Center" Margin="10 0 0 0"/>
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</UserControl>

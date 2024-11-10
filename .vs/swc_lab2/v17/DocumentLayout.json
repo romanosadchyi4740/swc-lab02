@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|solutionrelative:swc_lab2.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.ui\\views\\bookusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|solutionrelative:swc_lab2.ui\\views\\bookusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.ui\\viewmodel\\dataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|solutionrelative:swc_lab2.ui\\viewmodel\\dataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.ui\\viewmodel\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|solutionrelative:swc_lab2.ui\\viewmodel\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.ui\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|solutionrelative:swc_lab2.ui\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.ui\\viewmodel\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|solutionrelative:swc_lab2.ui\\viewmodel\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.ui\\converter\\controlvisibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|solutionrelative:swc_lab2.ui\\converter\\controlvisibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D53C79-DD74-4D14-987B-97AAE7FE28AD}|swc_lab2.model\\swc_lab2.model.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.model\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D53C79-DD74-4D14-987B-97AAE7FE28AD}|swc_lab2.model\\swc_lab2.model.csproj|solutionrelative:swc_lab2.model\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D53C79-DD74-4D14-987B-97AAE7FE28AD}|swc_lab2.model\\swc_lab2.model.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D53C79-DD74-4D14-987B-97AAE7FE28AD}|swc_lab2.model\\swc_lab2.model.csproj|solutionrelative:swc_lab2.model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D53C79-DD74-4D14-987B-97AAE7FE28AD}|swc_lab2.model\\swc_lab2.model.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D53C79-DD74-4D14-987B-97AAE7FE28AD}|swc_lab2.model\\swc_lab2.model.csproj|solutionrelative:swc_lab2.model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.ui\\views\\bookusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|solutionrelative:swc_lab2.ui\\views\\bookusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.ui\\views\\employeeusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|solutionrelative:swc_lab2.ui\\views\\employeeusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:swc_lab2.ui\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.ui\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|solutionrelative:swc_lab2.ui\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D3071\\riderprojects\\swc_lab2\\swc_lab2.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539E5B86-CC57-49A0-96F4-01F7B646A212}|swc_lab2.ui\\swc_lab2.ui.csproj|solutionrelative:swc_lab2.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\Views\\BookUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "swc_lab2.ui\\Views\\BookUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\Views\\BookUserControl.xaml.cs",
+              "RelativeToolTip": "swc_lab2.ui\\Views\\BookUserControl.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:54:01.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\ViewModel\\Command.cs",
+              "RelativeDocumentMoniker": "swc_lab2.ui\\ViewModel\\Command.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\ViewModel\\Command.cs",
+              "RelativeToolTip": "swc_lab2.ui\\ViewModel\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:52:36.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "swc_lab2.ui\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "swc_lab2.ui\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:52:17.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.model\\Employee.cs",
+              "RelativeDocumentMoniker": "swc_lab2.model\\Employee.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.model\\Employee.cs",
+              "RelativeToolTip": "swc_lab2.model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:51:28.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.model\\Book.cs",
+              "RelativeDocumentMoniker": "swc_lab2.model\\Book.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.model\\Book.cs",
+              "RelativeToolTip": "swc_lab2.model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:51:27.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "swc_lab2.ui\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeToolTip": "swc_lab2.ui\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:39:00.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControlVisibility.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\Converter\\ControlVisibility.cs",
+              "RelativeDocumentMoniker": "swc_lab2.ui\\Converter\\ControlVisibility.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\Converter\\ControlVisibility.cs",
+              "RelativeToolTip": "swc_lab2.ui\\Converter\\ControlVisibility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:41:48.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.model\\DataModel.cs",
+              "RelativeDocumentMoniker": "swc_lab2.model\\DataModel.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.model\\DataModel.cs",
+              "RelativeToolTip": "swc_lab2.model\\DataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:27:49.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "swc_lab2.ui\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\MainWindow.xaml",
+              "RelativeToolTip": "swc_lab2.ui\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T05:42:55.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\Views\\EmployeeUserControl.xaml",
+              "RelativeDocumentMoniker": "swc_lab2.ui\\Views\\EmployeeUserControl.xaml",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\Views\\EmployeeUserControl.xaml",
+              "RelativeToolTip": "swc_lab2.ui\\Views\\EmployeeUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T05:39:26.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\Views\\BookUserControl.xaml",
+              "RelativeDocumentMoniker": "swc_lab2.ui\\Views\\BookUserControl.xaml",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\Views\\BookUserControl.xaml",
+              "RelativeToolTip": "swc_lab2.ui\\Views\\BookUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T21:10:58.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\ViewModel\\DataViewModel.cs",
+              "RelativeDocumentMoniker": "swc_lab2.ui\\ViewModel\\DataViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\ViewModel\\DataViewModel.cs",
+              "RelativeToolTip": "swc_lab2.ui\\ViewModel\\DataViewModel.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAH0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:07:56.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\ViewModel\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "swc_lab2.ui\\ViewModel\\BookViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\ViewModel\\BookViewModel.cs",
+              "RelativeToolTip": "swc_lab2.ui\\ViewModel\\BookViewModel.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:07:53.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\App.xaml.cs",
+              "RelativeDocumentMoniker": "swc_lab2.ui\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\App.xaml.cs",
+              "RelativeToolTip": "swc_lab2.ui\\App.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAjwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:13:12.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "swc_lab2.ui\\ViewModel\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D3071\\RiderProjects\\swc_lab2\\swc_lab2.ui\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeToolTip": "swc_lab2.ui\\ViewModel\\EmployeeViewModel.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwD4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:07:47.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

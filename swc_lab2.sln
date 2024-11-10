@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swc_lab2.ui", "swc_lab2.ui\swc_lab2.ui.csproj", "{539E5B86-CC57-49A0-96F4-01F7B646A212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swc_lab2.model", "swc_lab2.model\swc_lab2.model.csproj", "{67D53C79-DD74-4D14-987B-97AAE7FE28AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{539E5B86-CC57-49A0-96F4-01F7B646A212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539E5B86-CC57-49A0-96F4-01F7B646A212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539E5B86-CC57-49A0-96F4-01F7B646A212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539E5B86-CC57-49A0-96F4-01F7B646A212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D53C79-DD74-4D14-987B-97AAE7FE28AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D53C79-DD74-4D14-987B-97AAE7FE28AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D53C79-DD74-4D14-987B-97AAE7FE28AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D53C79-DD74-4D14-987B-97AAE7FE28AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

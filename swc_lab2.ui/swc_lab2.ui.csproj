@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UseWPF>true</UseWPF>
+        <RootNamespace>swc_lab2</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Remove="713ff2828de8fd471369fed7991d9cc7.png" />
+      <None Remove="pngtree-company-employee-avatar-icon-wearing-a-suit-png-image_6133899.png" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="2.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\swc_lab2.model\swc_lab2.model.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Resource Include="713ff2828de8fd471369fed7991d9cc7.png" />
+      <Resource Include="pngtree-company-employee-avatar-icon-wearing-a-suit-png-image_6133899.png" />
+    </ItemGroup>
+
+</Project>
